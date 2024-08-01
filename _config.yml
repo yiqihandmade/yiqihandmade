@@ -1,0 +1,9 @@
+# basic options 
+title: Your Title
+author: User
+email: yiqihandmade@gmail.com
+description: a site for my work
+
+#Build settings
+markdown: kramdown
+theme: minima
